@@ -30,6 +30,7 @@ import java.util.Vector;
  * @author jehanmonnier
  *
  */
+
 public interface LinphoneAddress {
 	static public class TransportType {
 		static private Vector<TransportType> values = new Vector<TransportType>();
